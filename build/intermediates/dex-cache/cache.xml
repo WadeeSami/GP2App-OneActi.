@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_bd7221d610fb570e75388f63c997dd5dbb1b520a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_365aa1b91147926f97470e98f9535b6019a6b829/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9ba60b64106f8629fe1f669f918a3e776179cfd">
+        <dex dex="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3d0bd85d1a8f56510f6df7d9fc46c42edc2cd2f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_862636f99af7bee345c1bc879d93531093786dfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_27654b8022e33f370f154683d0829b76e4365ed2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_00739e419f8ffa094f8760a1f8eb58c48b587ab2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_24d1d67ef961cb4f7167ece99b5aabdb81a256d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Wadee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_1794eea51622632a9e076b9327bd2943b4a7cb4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd13480ce13f96ff91b91422276aaa39d02216eb">
+        <dex dex="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6abd234c2364ab97fcaeeb014fe2af0fabc36c53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_ceb23d0d7b3370e35d9004199deb72a2dc9dd66c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_683490c60ddde558f7be1778e305afd619101a4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/Wadee/Downloads/GP2App-cd9171ca07bc4c7dd70b93d5157e4ab714263333/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_b47526f51473e1e482e8b8846ba443db15300b74/classes.dex" />
+    </item>
+
+</items>
