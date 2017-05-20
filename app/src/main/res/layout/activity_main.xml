@@ -12,16 +12,12 @@
     tools:context="com.example.wadee.nots.MainActivity">
 
 
-
-        <TextView
-            android:id="@+id/textView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="NotificationListenerService Example"
-            android:textAppearance="?android:attr/textAppearanceMedium" />
-
-
-
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NotificationListenerService Example"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
 
 
     <Button
@@ -29,6 +25,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Enable Notification Mode"
+        android:onClick="buttonClicked"
 
         />
 
@@ -36,13 +33,15 @@
         android:id="@+id/musicModeBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Enable Notification Mode" />
+        android:onClick="buttonClicked"
+        android:text="Enable Music Mode" />
 
 
     <Button
         android:id="@+id/gameModeBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="buttonClicked"
         android:text="Enable Game Mode" />
 
     <LinearLayout
@@ -51,10 +50,13 @@
         android:orientation="vertical">
 
         <Button
+            android:id="@+id/up"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="Up" />
+            android:text="Up"
+            android:onClick="buttonClicked"
+            />
 
         <LinearLayout
             android:layout_width="wrap_content"
@@ -64,21 +66,27 @@
 
 
             <Button
+                android:id="@+id/left"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:onClick="buttonClicked"
                 android:text="Left" />
 
             <Button
+                android:id="@+id/right"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:onClick="buttonClicked"
                 android:text="Right" />
 
         </LinearLayout>
 
         <Button
+            android:id="@+id/down"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
+            android:onClick="buttonClicked"
             android:text="Down" />
 
 
@@ -89,31 +97,35 @@
             android:orientation="horizontal">
 
             <Button
+                android:id="@+id/play"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:onClick="buttonClicked"
                 android:text="Play" />
 
             <Button
+                android:id="@+id/pause"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:onClick="buttonClicked"
                 android:text="Pause" />
 
             <Button
+                android:id="@+id/next"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:onClick="buttonClicked"
                 android:text="Next" />
 
             <Button
+                android:id="@+id/previous"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:onClick="buttonClicked"
                 android:text="Previous" />
 
         </LinearLayout>
     </LinearLayout>
 
-    <TextView
-        android:id="@+id/NotsTextView"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Somethin" />
+
 </LinearLayout>
